@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Currently learning Cursor<br>📚 UCLA, UCD, and Duke!<br>🎯 Goals: Create seamless applications<br>🎲 Ask me anything!</p>
+<p align="left">✨ Currently learning Cursor<br>📚 CS and Data Science! <br>🎯 Goals: Create seamless applications<br>🎲 Ask me anything!</p>
 
 ###
 
