@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Python and React/React Native Stack!<br>📚 CS, AI and Data Science! <br>🎯 Goals: Create seamless applications<br>🎲 Ask me anything!</p>
+<p align="left">✨ Python and React/React Native Stack!<br>📚 Computer Science, Machine Learning and AI! <br>🎯 Goals: Create seamless applications<br>🎲 Ask me anything!</p>
 
 ###
 
