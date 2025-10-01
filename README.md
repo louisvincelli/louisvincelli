@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Python and React/React Native Stack!<br>📚 Computer Science, Machine Learning and AI! <br>🎯 Goals: Create seamless applications<br>🎲 Ask me anything!</p>
+<p align="left">✨ React/React Native and Next.js Stacks! <br>📚 University of California, Davis Alumni. <br>🎯 Goals: Create seamless applications! <br>🎲 Ask me anything!</p>
 
 ###
 
