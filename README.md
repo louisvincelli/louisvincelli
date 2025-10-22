@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Louis and I'm a Full-stack web developer with a background in Computer Science, Machine Learning and AI for interactive and well-responsive applications.</p>
+<p align="left">My name is Louis and I'm a Software Engineer with a background in Computer Science, Machine Learning and AI for interactive and well-responsive applications.</p>
 
 ###
 
