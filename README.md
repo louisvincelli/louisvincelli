@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I work with the React Ecosystem (React, React Native, Next.js) and more! <br>📚 University of California - Davis Alumni 🐮 <br>🎯 Goals: Create seamless applications! <br>🎲 Ask me anything!</p>
+<p align="left">✨ I work with the React Ecosystem (React, React Native, Next.js) and more! <br>📚 University of California - Davis Alumnus 🐮 <br>🎯 Goals: Create seamless applications! <br>🎲 Ask me anything!</p>
 
 ###
 
