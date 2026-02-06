@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Web applications are made in the React Ecosystem (React, React Native, Next.js) and Python for LLMs/backend! <br>🕊️ Mobile applications are developed in Swift, SwiftUI and UIKit! <br>📚 University of California - Davis Alumnus 🐮 <br>🎯 Goals: Create seamless applications! <br>🎲 Ask me anything!</p>
+<p align="left">✨ Web applications are made in the React Ecosystem (React, Typescript, JavaScript HTML, CSS) and Python for LLMs/backend! <br>🕊️ Mobile applications are developed in Swift, SwiftUI and UIKit! <br>📚 University of California - Davis Alumnus 🐮 <br>🎯 Goals: Create seamless applications! <br>🎲 Ask me anything!</p>
 
 ###
 
